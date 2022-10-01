@@ -1,6 +1,6 @@
 # Projeto 01 - Programa Explorer, Turma 06, Rocketseat
 
-![screenshot](./imagens/screenshot.png)
+![screenshot](images/screenshot.png)
 
 Projeto desenvolvido durante o Stage 02 do Programa Explorer, em Set/22.
 
