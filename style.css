@@ -6,9 +6,9 @@ body {
 
 #hero {
   width: 592px;
-  margin: auto; /* Centralizar */
-  margin: 0 auto 33px; /* Alteração no margin-bottom (72px para 33px) para retirar barra de rolagem. */
-  /* Shorthand acima poderia ser: 
+  margin: auto; /* To center */
+  margin: 0 auto 33px; /* Change in margin-bottom (72px to 33px) to remove scrollbar. */
+  /* Shorthand above could be: 
     margin-top: 0;
     margin-right: auto;
     margin-bottom: 72px;
@@ -19,7 +19,7 @@ body {
 }
 
 #hero #img {
-    margin-bottom: 33px; /* Alteração no margin-bottom (72px para 33px) para retirar barra de rolagem. */
+    margin-bottom: 33px; /* Change in margin-bottom (72px to 33px) to remove scrollbar. */
 }
   
 h1 {
