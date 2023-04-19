@@ -11,9 +11,9 @@ body {
   /* Shorthand above could be: 
     margin-top: 0;
     margin-right: auto;
-    margin-bottom: 72px;
+    margin-bottom: 72px; (FIGMA information)
     margin-left: auto;
-    Regra shorthand: top, right, bottom, left.
+    Shorthand rule: top, right, bottom, left.
   */
     
 }
